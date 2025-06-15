@@ -1,6 +1,8 @@
 🧠 MyJournal: Your AI-Powered App for Mental Strength
+
 Project Overview
-"Mental Journal" is an innovative, AI-powered web application (planned as a cross-platform app) that supports young people in building emotional structure, clarity, and mental strength. At its core, it is a personal self-reflection tool with a strong focus on rational problem-solving, personal responsibility, and sustainable personal development.
+
+"MyJournal" is an innovative, AI-powered web application (planned as a cross-platform app) that supports young people in building emotional structure, clarity, and mental strength. At its core, it is a personal self-reflection tool with a strong focus on rational problem-solving, personal responsibility, and sustainable personal development.
 
 The app was developed to provide users with a safe and private space to process their thoughts and feelings, supported by intelligent technologies that encourage self-help.
 
