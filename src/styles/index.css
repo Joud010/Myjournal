@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Darkmode */
+.dark {
+  background: #181825 !important;
+  color: #f3f3fa !important;
+}
+.dark .bg-white\/80,
+.dark .bg-white\/90,
+.dark .bg-white\/95,
+.dark .bg-white {
+  background: #23233a !important;
+  color: #f3f3fa !important;
+}
+.dark .text-violet-700,
+.dark .text-violet-900 {
+  color: #c7bfff !important;
+}
+.dark .bg-violet-100 {
+  background: #3b3566 !important;
+}
+.dark .bg-amber-100 {
+  background: #665c3b !important;
+}
+.dark .bg-violet-50 {
+  background: #23233a !important;
+}
+.dark .bg-amber-50 {
+  background: #665c3b !important;
+}
+
+/* Animationen */
+@keyframes fadein {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+.animate-fadein {
+  animation: fadein 0.6s;
+}
+
+/* Fokus für Tastatur */
+:focus-visible {
+  outline: 2px solid #a78bfa;
+  outline-offset: 2px;
+}
+
+/* ARIA-Live für Toasts */
+[role="status"] {
+  aria-live: polite;
+}

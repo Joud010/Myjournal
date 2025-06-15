@@ -1,0 +1,11 @@
+export const PRIMARY_BG = "bg-gradient-to-br from-violet-50 via-blue-50 to-amber-50 min-h-screen";
+export const PRIMARY_BTN = "bg-violet-500 hover:bg-violet-600 text-white shadow-lg transition-all duration-150";
+export const SECONDARY_BTN = "bg-amber-100 hover:bg-amber-200 text-violet-700";
+export const CARD = "bg-white/90 rounded-3xl shadow-xl border border-violet-100 p-4 md:p-6";
+export const INPUT = "w-full p-3 border border-violet-200 rounded-2xl bg-white/80 focus:outline-none focus:ring-2 focus:ring-violet-300 transition-all duration-150";
+export const HIGHLIGHT_FONT = "font-serif text-violet-700";
+export const BASE_TEXT = "text-base text-gray-800";
+export const TITLE = "text-4xl font-extrabold text-center text-violet-700 mb-4 drop-shadow";
+export const SUBTITLE = "text-2xl font-semibold mb-3 text-violet-600";
+export const MENU_BTN = "absolute left-0 top-0 bg-amber-100 hover:bg-amber-200 text-violet-700 p-3 rounded-2xl shadow";
+export const LOGOUT_BTN = "absolute right-0 top-0 bg-violet-400 hover:bg-violet-600 text-white px-5 py-2 rounded-2xl shadow";
